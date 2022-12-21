@@ -16,6 +16,9 @@ PHP
 MySQL
 
 
+change the keyid and key_secret in config.php 
+
+
 
 
 
